@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitien Sharma</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZH7FZAjAXRMT5qND0A3IEnIAIYP4GwvvEz82tAHlPQQ&amp;s" align="center" width="200" height="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZH7FZAjAXRMT5qND0A3IEnIAIYP4GwvvEz82tAHlPQQ&amp;s" align="right" width="400" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitiensharma099&label=Profile%20views&color=0e75b6&style=flat" alt="nitiensharma099" /> </p>
 
 - 📫 How to reach me **nitiensharma099@gmail.com**
