@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitien Sharma</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZH7FZAjAXRMT5qND0A3IEnIAIYP4GwvvEz82tAHlPQQ&amp;s" align="right" width="300" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitiensharma099&label=Profile%20views&color=0e75b6&style=flat" alt="nitiensharma099" /> </p>
